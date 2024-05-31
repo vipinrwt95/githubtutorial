@@ -6,3 +6,6 @@ function sum(a,b){
 } 
 const c=sum(a,b);
 
+const e=sum(a,f,g);
+
+return a+b;
