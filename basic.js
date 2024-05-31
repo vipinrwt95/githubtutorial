@@ -5,4 +5,4 @@ function sum(a,b){
   return a+b
 } 
 const c=sum(a,b);
-const d=10;
+
