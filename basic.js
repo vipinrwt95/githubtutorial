@@ -9,3 +9,7 @@ const c=sum(a,b);
 const e=sum(a,f,g);
 
 return a+b;
+const d=sum(b,a)
+{
+    return b-a
+}
